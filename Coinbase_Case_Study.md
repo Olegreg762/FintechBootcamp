@@ -1,4 +1,4 @@
-
+![](images/coinbasetimessquare.jpeg)
 
 # Coinbase inc, Case Study
 ## By Greg Stevenson
@@ -80,4 +80,5 @@ https://en.wikipedia.org/wiki/Coinbase#cite_note-verge1-60 <br>
 https://en.wikipedia.org/wiki/SEC_v._Wahi <br>
 https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.html <br>
 https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html <br>
+https://blockworks.co/wp-content/uploads/2022/09/coinbasetimessquare.jpg
 ___
