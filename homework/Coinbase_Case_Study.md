@@ -1,4 +1,4 @@
-![](images/coinbasetimessquare.jpeg)
+![](../images/coinbasetimessquare.jpeg)
 
 # Coinbase inc, Case Study
 ## By Greg Stevenson
