@@ -1,3 +1,5 @@
+
+
 # Coinbase inc, Case Study
 ## By Greg Stevenson
 ___
