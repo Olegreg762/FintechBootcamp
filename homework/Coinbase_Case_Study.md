@@ -53,7 +53,7 @@ Intentionally leaked that information to his brother and their friend.
 The case is still pending with the SEC requesting a jury trial.
 
 If I were to offer recommendations to Coinbase about future products and services the most crucial I would have would be offering cryptocurrencies with their own blockchains that have greater use cases and stronger communities.
-There are many cryptocurrencies such as Thorchain, Theta, Monero, Arweave to name a few. 
+There are many cryptocurrencies such as Thorchain (Market Cap $479 million), Theta (Market Cap $1 billion), Monero (Market Cap $2.5 billion), Arweave (Market Cap $476 billion) to name a few. 
 These cryptocurrencies would offer an increase in trading volume as they all have strong communities and are not listed on most US exchanges.
 Listing these and other cryptocurrencies that have their own blockchains will require Coinbase to integrate the addresses and coding of those blockchains into their current systems.
 
@@ -80,5 +80,7 @@ https://en.wikipedia.org/wiki/Coinbase#cite_note-verge1-60 <br>
 https://en.wikipedia.org/wiki/SEC_v._Wahi <br>
 https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.html <br>
 https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html <br>
-https://blockworks.co/wp-content/uploads/2022/09/coinbasetimessquare.jpg
+https://blockworks.co/wp-content/uploads/2022/09/coinbasetimessquare.jpg <br>
+https://www.fool.com/the-ascent/personal-finance/articles/survey-finds-americans-spend-133-more-than-they-realize-on-monthly-subscription-fees/#:~:text=On%20average%2C%20survey%20respondents%20estimated,recurring%20monthly%20subscription%20services%20costs. <br>
+https://www.coingecko.com/
 ___
