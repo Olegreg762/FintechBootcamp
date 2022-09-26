@@ -17,6 +17,7 @@ This new problem was that Bitcoin wasn't easy for safe purchase.
 The solution for this new problem was their own company Coinbase. 
 Coinbase would offer customers an user-friendly and secure way to purchase and trade Bitcoin and eventually other cryptocurrencies.
 
+
 Brian Armstong and Fred Ehrsam applied to Y Combinator venture capitalist company to fund Coinbase and received $150K.
 To date Coinbase has had 17 funding rounds raising a total of $552.3M, with the latest being a Secondary Market round from Employee Stock Option Fund.
 
@@ -53,9 +54,9 @@ Intentionally leaked that information to his brother and their friend.
 The case is still pending with the SEC requesting a jury trial.
 
 If I were to offer recommendations to Coinbase about future products and services the most crucial I would have would be offering cryptocurrencies with their own blockchains that have greater use cases and stronger communities.
-There are many cryptocurrencies such as Thorchain (Market Cap $479 million), Theta (Market Cap $1 billion), Monero (Market Cap $2.5 billion), Arweave (Market Cap $476 billion) to name a few. Coinbase adding
-the aforementioned cryptocurrencies would give them a piece of their combined 24hr trading volume of $124 million.
-These cryptocurrencies would offer an increase in trading volume as they all have strong communities and are not listed on most US exchanges.
+There are many cryptocurrencies such as Thorchain (Market Cap $479 million), Theta (Market Cap $1 billion), Monero (Market Cap $2.5 billion), Arweave (Market Cap $476 billion) to name a few. 
+Coinbase adding the aforementioned cryptocurrencies would give them a piece of their combined 24hr trading volume of $124 million.
+Coinbase would be able to get a large portion of the trading volume as well as increase the trading volume as most of those previously stated cryptocurrencies are not listed on US exchanges.
 Listing these and other cryptocurrencies that have their own blockchains will require Coinbase to integrate the addresses and coding of those blockchains into their current systems.
 
 
