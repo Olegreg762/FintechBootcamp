@@ -8,3 +8,4 @@ elif perce_incre <= -20:
     print("BUY THE DIP")
 elif perce_incre <= 10:
     print("DIAMOND HANDS")
+    
