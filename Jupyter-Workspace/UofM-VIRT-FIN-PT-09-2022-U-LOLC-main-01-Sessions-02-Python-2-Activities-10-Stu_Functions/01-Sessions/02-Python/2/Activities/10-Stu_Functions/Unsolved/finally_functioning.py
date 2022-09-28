@@ -11,11 +11,15 @@ ending_balance = 45000.10
 # Declare a variable years as an float
 years = 1.0
 
+
 # Define a function called calculate_compound_growth_rate with three arguments: beginning_balance, ending_balance, years. Function should output growth_rate.
+def calculate_compound_growth_rate(beginning_balance, ending_balance, years):
+    growth_rate = ((ending_balance / beginning_balance) ** (1 / years) - 1) * 100
+    return growth_rate
 
 
 # Call calculate_compound_growth_rate using beginning_balance, ending_balance, and years. Capture as year_one_growth.
-
+growth_rates = calculate_compound_growth_rate(beginning_balance, ending_balance, years)
 
 # Update beginning_balance and ending balance for year two, and then execute calculate_compound_growth_rate
 
@@ -41,11 +45,11 @@ years = 1.0
 # Define a function called
 
 
-    # Populate growth_rates list using add() function
+# Populate growth_rates list using add() function
 
 
 # Call calculate_compound_growth_rate_list and populate growth_rates with 2016 values (beginning_balance and ending_balance)
-beginning_balance = 29000.00
+'''beginning_balance = 29000.00
 ending_balance = 45000.10
 
 
@@ -56,8 +60,7 @@ ending_balance = 47000.00
 
 # Call calculate_compound_growth_rate_list and populate growth_rates with 2018 values (beginning_balance and ending_balance)
 beginning_balance = 47000.00
-ending_balance = 48930.00
-
+ending_balance = 48930.00'''
 
 # Print growth_rates list
 print("Growth rates: ", growth_rates)
