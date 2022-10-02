@@ -1,9 +1,0 @@
-"""
-Conditionally Yours
-
-Pseudocode:
-
-"""
-
-
-"""
