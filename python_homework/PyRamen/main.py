@@ -11,7 +11,7 @@ with open('./Resources/menu_data.csv') as menu_data:
     #Create variable menu_data from csvreader
     menu_data = csv.reader(menu_data, delimiter=',')
     #Skip header labels
-    Header = next(menu_data)
+    header = next(menu_data)
     #Print header
     for row in menu_data:
         menu.append(row)
@@ -21,7 +21,7 @@ with open('./Resources/sales_data.csv') as sales_data:
     #Create variable sales_data from csvreader
     sales_data = csv.reader(sales_data, delimiter=',')
     #Skip header labels
-    Header = next(sales_data)
+    header = next(sales_data)
     #Print header
     for row in sales_data:
         sales.append(row)
