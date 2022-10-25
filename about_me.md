@@ -2,10 +2,13 @@
 most of my background is in retail management and supply chain </br>
 I chose fintech for my new-found interest in cryptocurrencies and blockchain technologies
 Learn new skills to adapt to changing workforce landscape <br/>
-![roci](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjtsL3fWdZCUH1dL4lidEC95H-EcJcmblzA&usqp=CAU)
-![](images/theroci.jpeg)
+
 ___
-##  This is a file telling a little about me<br/>
+## Repo Contents <br/>
+* [api_homework](api_homework)
+* [homework](homework)
+* [pandas_homework](pandas_homework)
+* [python_homework](python_homework)
 ___
 ### 
 
