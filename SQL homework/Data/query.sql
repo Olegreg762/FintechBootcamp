@@ -40,3 +40,7 @@ NATURAL JOIN merchant_cat
 WHERE merchant.merch_id IN ('64','87')
 
 --
+
+SELECT tran_id, date_, amount, cardholder_id 
+FROM transact 
+NATURAL JOIN credit_card 
