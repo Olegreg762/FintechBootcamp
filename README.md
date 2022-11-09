@@ -10,5 +10,5 @@ ___
 * [pandas_homework](pandas_homework)
 * [python_homework](python_homework)
 * [pyviz_homework](pyviz_homework)
-* [SQL_homework](SQL_homework)
+* [SQL_homework](SQL homework)
 ___
