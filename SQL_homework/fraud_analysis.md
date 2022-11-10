@@ -12,8 +12,8 @@ The high number of large transactions that are ourside of the norm for cardholde
 # Fraud analysis for cardholder 25<br>
 ** Cardholder 25 does have outliers in the first quarter of 2018 with one in January being $1,177 and the other<br> being in March for $1,334.<br>
 1. The outlier in January did occour 6:30pm for merchant Cline, Myers and Strong which is a restaurant<br>
-2. The outlier is March occoured at 7:18am from a bar called Griffin-Woodard<br>
+2. The outlier is March occoured at 7:18am from a restaurant called Griffin-Woodard<br>
 
-The transaction activity would suggest that someone may have used the card without authorization for a<br>restaurant and bar bill.  
+The transaction activity would suggest that someone may have used the card without authorization for <br>restaurant bills.  
 
 

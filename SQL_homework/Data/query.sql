@@ -36,8 +36,8 @@ transact.date_ BETWEEN '2018-01-02 02:06:21' AND
 --query for identifying merchants
 
 SELECT * FROM merchant
-NATURAL JOIN merchant_cat 
-WHERE merchant.merch_id IN ('64','87')
+INNER JOIN merchant_cat 
+ON merchant.merch_id IN ('64','87')
 
 --
 
